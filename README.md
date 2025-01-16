@@ -18,9 +18,7 @@
 
 - ⚡ Fun fact **I ❤️🐈s**
 
-- 💫 I run my own telegram channel dedicated to Go where I share
-      my experience of learning Go, from the first steps to complex
-      projects. [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/dictGo)
+
 
 
 ## 🌐 Socials:
