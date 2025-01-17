@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 💻, I'm Guseynov Amil</h1>
 <h3 align="center">Glad to see you here!</h3>
-<img align="right" alt="Coding" width="350" src="https://media.proglib.io/wp-uploads/2017/10/1-vHUiXvBE0p0fLRwFHZuAYw.gif">
+<img align="right" alt="Coding" width="300" src="https://media.proglib.io/wp-uploads/2017/10/1-vHUiXvBE0p0fLRwFHZuAYw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devamgsnv&label=Profile%20views&color=0e75b6&style=flat" alt="devamgsnv" /> </p>
 
